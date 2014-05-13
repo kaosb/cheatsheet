@@ -1,0 +1,4 @@
+cheatsheet
+==========
+
+Ejemplos, y experimentos.
